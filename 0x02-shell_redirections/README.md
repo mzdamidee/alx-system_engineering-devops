@@ -1,5 +1,6 @@
 # Shell Redirection
 This project is about shell redirection.
+
 File 0-hello_world is a script that prints “Hello, World”, followed by a new line to the standard output.
 
 
@@ -28,7 +29,7 @@ File 6-third_line is a script that displays the third line of the file iacta.
 
 
 
-File 7-file is a script that creates a file named exactly *\'"Holberton School"'\*$?*****:) containing the text Holberton School ending by a new line.
+File 7-file is a script that creates a file named exactly *\'"Best School"'\*$?*****:) containing the text Holberton School ending by a new line.
 
 
 
