@@ -1,8 +1,10 @@
-#POSTMORTEM
+## POSTMORTEM
 
-## ISSUE DESCRIPTION
+#ISSUE DESCRIPTION
+![222900235-c1877778-e3ce-4796-a73c-f71568cc2348](https://github.com/mzdamidee/alx-system_engineering-devops/assets/26973838/10f6f238-9602-424e-8efa-a90873f1b07a)
 
-## SUMMARY:
+
+### SUMMARY:
 Duration: The outage lasted from March 1st, 2023 at 2:00 PM UTC to March 2nd, 2023 at 9:00 AM UTC.
 
 Impact: The web assistant was completely down during the outage, resulting in users being unable to use both the chatbot and voice assistant components.
